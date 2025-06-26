@@ -1,0 +1,9 @@
+{
+	"name": "ADFSureshTestDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b11be74-4281-46d1-8448-5e5140ac27e8",
+		"tenantId": "5f621e50-4641-46bd-8212-c436f2917f82"
+	}
+}
